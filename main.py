@@ -134,7 +134,7 @@ def main():
 
     if page == "Home":
         st.subheader("Welcome to Online Software for Business Management")
-        st.subheader("This project is under Devlopment")
+        st.subheader("This project is under devlopment")
         st.subheader("Hosted for Client viewing purposes")
         st.subheader("Some features may not work")
         st.write("This software helps you manage various aspects of your business, including challan, invoice, site work, expenses, finance, salary, attendance, and reminders.")
